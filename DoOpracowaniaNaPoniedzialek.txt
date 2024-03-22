@@ -1,0 +1,10 @@
+Opracowane tematy w dokumencie: (z tego sprawdzian teoretyczny)
+
+(weebowka (react, angular, ..))
+
+1. Czym jest framework?
+2. Wymień podstawowe frameworki/biblioteki frontendowe
+3. Czym jest angular, react, view, cos z .Neta? (przez kogo stworzony(np. angular przez googla, react przez facebook itp), jakie języki, do czego służy)
+4. Czym jest frontend, backend
+5. Wymień i krótko scharakteryzuj środowiska backendowe
+6. Do czego służy wzorzec NVC
